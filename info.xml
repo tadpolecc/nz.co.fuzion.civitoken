@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <extension key="nz.co.fuzion.civitoken" type="module">
   <file>civitoken</file>
-  <name>Fuzion Tokens</name>
-  <description>Extra tokens for CiviCRM</description>
+  <name>Fuzion Tokens - SSA Fork</name>
+  <description>Extra tokens for CiviCRM SSA Fork</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Eileen</author>
     <email>eileen@fuzion.co.nz</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">https://github.com/eileenmcnaughton/nz.co.fuzion.civitoken</url>
-    <url desc="Documentation">https://github.com/eileenmcnaughton/nz.co.fuzion.civitoken</url>
-    <url desc="Support">http://forum.civicrm.org</url>
+    <url desc="Main Extension Page">https://github.com/tadpolecc/nz.co.fuzion.civitoken/tree/ssa</url>
+    <url desc="Documentation">https://github.com/tadpolecc/nz.co.fuzion.civitoken/tree/ssa</url>
+    <url desc="Support">https://github.com/tadpolecc/nz.co.fuzion.civitoken/tree/ssa</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
   <releaseDate>2014-12-17</releaseDate>
